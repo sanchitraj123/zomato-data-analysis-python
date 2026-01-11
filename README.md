@@ -90,14 +90,15 @@ These visualizations help in **quick decision-making** and **understanding custo
    git clone https://github.com/your-username/zomato-data-analysis-python.git
 
 2. Navigate to project folder:
+   ```bash
    cd zomato-data-analysis-python
 
 
-3. Install dependencies:
+4. Install dependencies:
    pip install -r requirements.txt
 
 
-4. Open Jupyter Notebook:
+5. Open Jupyter Notebook:
    jupyter notebook notebooks/zomato_analysis.ipynb
 
 
