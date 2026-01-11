@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on Zomato restaurant data to understand **customer preferences**, **restaurant trends**, and **ordering behavior**.  
+
+
 The goal is to extract **actionable business insights** using Python and data visualization techniques.
 
 ---
@@ -27,21 +29,6 @@ The analysis aims to answer the following business questions:
 - **Version Control:** Git & GitHub  
 
 ---
-
-## 📂 Project Structure
-ZOMATO_DATA_ANALYSIS/
-│
-├── data/
-│ └── Zomato-data-.csv
-│
-├── notebooks/
-│ └── zomato_analysis.ipynb
-│
-├── README.md
-└── requirements.txt
-
-
-
 
 ---
 
@@ -95,30 +82,27 @@ These visualizations help in **quick decision-making** and **understanding custo
 
 
 4. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 
-5. Open Jupyter Notebook:
+6. Open Jupyter Notebook:
+   ```bash
    jupyter notebook notebooks/zomato_analysis.ipynb
 
 
 Run the notebook cells step by step.
 
-💡 Future Improvements
+## 💡 Future Improvements
 
-Add predictive modeling (restaurant rating prediction)
-Perform sentiment analysis on reviews (if available)
-Include more advanced visualizations (like interactive dashboards)
+- Add predictive modeling (restaurant rating prediction)
+- Perform sentiment analysis on reviews (if available)
+- Include more advanced visualizations (like interactive dashboards)
 
-📚 References
 
-Zomato Dataset on Kaggle
 
-Python Pandas, Matplotlib & Seaborn Documentation
-
-👤 Author
-
-Your Name – Sanchit Raj | Python 
+## 👤 Author
+- Sanchit Raj | Python 
 
 
 "# zomato-data-analysis-python" 
