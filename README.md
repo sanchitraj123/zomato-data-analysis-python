@@ -1,4 +1,4 @@
-# 🍽️ Zomato Data Analysis Using Python
+# 🍽️ Zomato Data Analysis Using Python 
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on Zomato restaurant data to understand **customer preferences**, **restaurant trends**, and **ordering behavior**.  
